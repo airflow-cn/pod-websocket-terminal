@@ -1,4 +1,4 @@
-package github.com/airflow-cn/pod-websocket-terminal
+package terminal
 
 import (
     "context"
